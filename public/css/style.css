@@ -1,0 +1,31 @@
+body {
+    background-color: burlywood;
+}
+#logo {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.table {
+    align-items: center;
+    text-align: center;
+}
+
+#img-trainer {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+
+#img-transmission {
+    width: 500px;
+    height: 200px;
+}
+
+.logo {
+    background-color: greenyellow;
+}
